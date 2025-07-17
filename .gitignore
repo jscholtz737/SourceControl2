@@ -1,0 +1,23 @@
+    # Xcode-specific files
+    xcuserdata/
+    *.xcuserdatad/
+    *.xcodeproj/project.xcworkspace/
+    .swiftpm/
+    build/
+    DerivedData/
+    .DS_Store
+
+    # Swift Package Manager
+    Packages/
+    *.xcodeproj
+    *.xcworkspace
+
+    # CocoaPods
+    Pods/
+
+    # Carthage
+    Carthage/Checkouts/
+    Carthage/Build/
+
+    # Fastlane
+    fastlane/screenshots/
